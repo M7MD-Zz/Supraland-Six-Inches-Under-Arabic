@@ -1,2 +1,45 @@
-# Supraland-Six-Inches-Under-Arabic
-Supraland Six Inches Under. الترجمة العربية للعبة 
+# Supraland: Six Inches Under - التعريب العربي
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbd65c49-2902-4d6f-96f2-0c7a06e82515" width="48%" />
+  <img src="https://github.com/user-attachments/assets/628d21fe-94fb-4c19-95d0-c9fc9622470f" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb4fa8b1-d417-481f-8345-de9135fac17c" width="48%" />
+  <img src="https://github.com/user-attachments/assets/58763a0d-5ea9-4818-b72e-79c3e932a733" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1220e26-d700-4c5e-8575-6217a3f2b303" width="96%" />
+</p>
+
+---
+
+## 📖 اقرأني قبل أن تلعب
+
+**هذا التعريب مقدم من:** M7MD-XD
+
+### ⚠️ تنبيهات هامة وإبراء ذمة:
+* لا تدع الألعاب تلهيك عن صلاتك وقضاء الوقت الثمين مع عائلتك وأصدقائك.
+* أُبرئ ذمتي وأخلي مسؤوليتي أمام الله في حال شاهدت أو سمعت أي شيء لا يرضي الله ورسوله داخل اللعبة.
+* لست مسؤولاً عن عدم عمل التعريب على النسخ غير الرسمية من اللعبة.
+
+---
+
+### 🛠️ طريقة تثبيت التعريب:
+قم بنسخ المجلد المسمى (**SupralandSIU**) المرفق مع التعريب، ثم اذهب إلى المجلد الرئيسي للعبة والصقه هناك مباشرة. سينتقل ملف التعريب إلى مكانه المقصود تلقائياً.
+
+**المسار الدقيق للمجلد الرئيسي للعبة على ستيم:**
+`C:\Program Files (x86)\Steam\steamapps\common\Supraland Six Inches Under`
+
+---
+
+### 📜 حقوق وملكية التعريب:
+* لا أسمح باستخدام ملفات التعريب أو التعديل عليها دون الرجوع إلي أولاً.
+* أمنع نشر تعريبي أو روابط التعريب الخاصة بي في أي موقع آخر إلا بعد الاتفاق معي.
+
+---
+
+### 💬 للتواصل وطلب الإذن أو الإبلاغ عن المشاكل:
+* **حسابي على الدسكورد:** [انضم لسيرفر الديسكورد](https://discord.gg/WPAH8eWj2w)
